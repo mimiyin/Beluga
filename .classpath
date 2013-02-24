@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="water/Particle.java|water/Whale_Old.java|water/Whale_Old_Old.java|water/Whale_Working.java|water/Sky_Old.java|water/Sun.java|water/Trampoline.java|water/CopyOfStage.java|water/Bird.java|water/Flock.java|water/Whale_Nov_22.java|water/Sky.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/mpe.jar"/>
+	<classpathentry kind="lib" path="lib/opengl/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Water-Mimi-Guang/lib/opengl/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/opengl/opengl.jar"/>
+	<classpathentry kind="lib" path="lib/toxiclibs-complete-0020/verletphysics/library/verletphysics.jar"/>
+	<classpathentry kind="lib" path="lib/toxiclibs-complete-0020/toxiclibscore/library/toxiclibscore.jar"/>
+	<classpathentry kind="lib" path="lib/toxiclibs-complete-0020/toxiclibs_p5/library/toxiclibs_p5.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/jl1.0.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/minim-spi.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/GLGraphics/library/GLGraphics.jar"/>
+	<classpathentry kind="lib" path="lib/opengl/jogl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
